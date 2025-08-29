@@ -68,6 +68,33 @@ export const aboutData = {
         year: "2025",
         description: "Certified Information Systems Security Professional Associate level",
         certificateFile: "/certificates/cissp-certificate.pdf"
+      },
+      {
+        id: 4,
+        name: "Deloitte Cyber Job Simulation",
+        issuer: "Forage",
+        status: "Completed",
+        year: "2025",
+        description: "Certified Information Systems Security Professional Associate level",
+        certificateFile: ""
+      },
+      {
+        id: 5,
+        name: "Tata - Cybersecurity Analyst Job Simulation",
+        issuer: "Forage",
+        status: "Completed",
+        year: "2025",
+        description: "Hands-on experience in a simulated cybersecurity environment",
+        certificateFile: ""
+      },
+      {
+        id: 6,
+        name: "Introduction to MongoDB",
+        issuer: "MongoDB",
+        status: "Completed",
+        year: "2024",
+        description: "Hands-on experience in a simulated cybersecurity environment",
+        certificateFile: ""
       }
     ]
   }
@@ -242,7 +269,6 @@ export const contestsData = [
 
 export const contactData = {
   email: "naveensekhar06@gmail.com",
-  phone: "+1 (555) 123-4567",
   location: "Chennai, India",
   availability: "Available for internships and entry-level positions",
   socialLinks: {

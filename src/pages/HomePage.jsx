@@ -69,7 +69,7 @@ const HomePage = () => {
             </div>
 
             <p className="text-lg sm:text-xl text-slate-600 dark:text-slate-400 max-w-3xl mx-auto leading-relaxed">
-              Dedicated cybersecurity and IoT student with a passion for securing digital infrastructure 
+              Dedicated Cybersecurity and IoT student with a passion for securing digital infrastructure 
               and protecting tomorrow's connected world through innovative security solutions.
             </p>
 
@@ -136,7 +136,7 @@ const HomePage = () => {
               What I Do
             </h2>
             <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-              Specialized expertise across multiple cybersecurity domains
+              Pursuing knowledge while guiding and inspiring future talent
             </p>
           </div>
 
@@ -145,19 +145,19 @@ const HomePage = () => {
               {
                 icon: Shield,
                 title: 'Cybersecurity',
-                description: 'Network security, penetration testing, and vulnerability assessment with hands-on experience.',
+                description: 'Learning, adapting, and enhancing skills in network security, penetration testing, and vulnerability assessment through real-world practice.',
                 link: '/projects'
               },
               {
                 icon: Code,
-                title: 'IoT Security',
-                description: 'Securing connected devices and IoT ecosystems through innovative security solutions.',
+                title: 'Internet of Things',
+                description: 'Exploring IoT and emerging technologies with a focus on continuous learning.',
                 link: '/projects'
               },
               {
                 icon: Award,
                 title: 'Competitions',
-                description: 'Top rankings in national cybersecurity competitions including NCL, CyberPatriot, and DEF CON.',
+                description: 'Attending competitions to test my skills, improve public speaking, and expand my professional network.',
                 link: '/contests'
               }
             ].map((item, index) => {
